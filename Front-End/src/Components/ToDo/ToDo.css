@@ -1,0 +1,16 @@
+label, input, button {
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 40px;
+}
+.enlarge:hover
+{
+    transform: scale(1.1); /* Increase the scale as needed */
+    transition: transform 0.3s ease-in-out;
+}
