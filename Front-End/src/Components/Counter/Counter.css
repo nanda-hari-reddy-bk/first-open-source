@@ -1,0 +1,25 @@
+button
+{
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    color: whitesmoke;
+    margin: 10px;
+    border-radius: 50px;
+    border-color: white;
+}
+.showCount
+{
+    font-size: 100px;
+    padding: 20px;
+}
+.reset
+{
+    height: 30px;
+    width: 120px;
+    background-color: rgb(223, 3, 3);
+    color: whitesmoke;
+    margin: 10px;
+    border-radius: 30px;
+    border-color: rgb(255, 255, 255);
+}
